@@ -1,4 +1,4 @@
-<H1>Hello, I'm Stephon! 👋</H1>
+<H1>Hello, I'm Stephon!</H1>
 <h2>Software Engineer, Front End Designer, Back-End Developer</H2>
 
 <!--
