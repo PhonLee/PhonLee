@@ -1,4 +1,5 @@
-### Hi there 👋
+<H1>Hello, I'm Stephon! 👋</H1>
+<h2>Software Engineer, Front End Designer, Back-End Developer</H2>
 
 <!--
 **PhonLee/PhonLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
